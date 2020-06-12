@@ -163,7 +163,7 @@ export class Rails extends Component {
         <View className="DiceContainer">
           
           <Text style = {styles.trickBox}>{this.state.frontOrBack}{"\n"}
-          {this.state.trickState}{"\n"}{"Roomba Tester"}
+          {this.state.trickState}{"\n"}{"Roomba Tester 2"}
           </Text>
         </View>
         <View>

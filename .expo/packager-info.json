@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 2715,
-  "expoServerNgrokUrl": "https://nw-yrb.kweinhold22.snowdicecomp.exp.direct",
-  "packagerNgrokUrl": "https://packager.nw-yrb.kweinhold22.snowdicecomp.exp.direct",
-  "ngrokPid": 2723,
+  "packagerPid": 6738,
+  "expoServerNgrokUrl": "https://nw-yrb.kweinhold22.random-trick-generator.exp.direct",
+  "packagerNgrokUrl": "https://packager.nw-yrb.kweinhold22.random-trick-generator.exp.direct",
+  "ngrokPid": 6746,
   "webpackServerPort": null
 }
